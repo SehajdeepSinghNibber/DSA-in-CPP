@@ -44,20 +44,6 @@ DSA-in-CPP/
 
 ---
 
-## 📊 Progress Tracker
-
-### 🎯 LeetCode Stats
-| Difficulty | Problems Solved | Goal |
-|------------|----------------|------|
-| Easy       | 0              | 100  |
-| Medium     | 0              | 150  |
-| Hard       | 0              | 50   |
-| **Total**  | **0**          | **300** |
-
-### 📅 Current Streak
-- **Days Active:** 0 🔥
-- **Last Updated:** October 2025
-
 ### 🗓️ Monthly Goals
 - ✅ Solve at least 5 problems per week
 - ✅ Complete one topic per month (Arrays, Trees, DP, etc.)
@@ -67,7 +53,7 @@ DSA-in-CPP/
 
 ## 🌱 Goal
 
-To build strong fundamentals in **DSA using C++**, enhance **problem-solving skills**, and track my **growth through consistent practice**. This repo serves as both a learning journal and a reference for future interviews and projects.
+To build strong fundamentals in **DSA**, enhance **problem-solving skills**, and track my **growth through consistent practice**. This repo serves as both a learning journal and a reference for future interviews and projects.
 
 ---
 
@@ -85,10 +71,6 @@ To build strong fundamentals in **DSA using C++**, enhance **problem-solving ski
    ```
 
 3. **Compile and run:**
-   ```bash
-   g++ -std=c++17 filename.cpp -o output
-   ./output
-   ```
 
 ---
 
